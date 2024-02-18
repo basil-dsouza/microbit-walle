@@ -18,6 +18,22 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/basil-dsouza/microbit-walle** and click import
 
+## Wiring Documentation
+### Line Sensor
+* D1 - Orange - P2
+* D2 - Yellow - P13
+* D3 - Blue - P1
+* D4 - Purple - P12
+* D5 - Green - P0
+* Vcc - Red
+* Ground - Black
+* 
+### Infrared Sensor (Remote)
+### Power
+### Motor Wiring
+Connected to microbit 
+
+
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit

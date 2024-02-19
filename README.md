@@ -20,11 +20,11 @@ To edit this repository in MakeCode.
 
 ## Wiring Documentation
 ### Line Sensor
-* D1 - Orange - P2
-* D2 - Yellow - P13
-* D3 - Blue - P1
-* D4 - Purple - P12
-* D5 - Green - P0
+* D1 - Orange - P2 - Outer Left
+* D2 - Yellow - P13 - Inner Left 
+* D3 - Blue - P1 - Middle
+* D4 - Purple - P12 - Inner Right
+* D5 - Green - P0 - Outer Right
 * Vcc - Red
 * Ground - Black
 * 
